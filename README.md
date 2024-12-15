@@ -1,6 +1,5 @@
 # Portfolio Project (using HTML, JS and CSS)
 
-Welcome to my portfolio project! This project showcases my work as a [brief description of your profession or field, e.g., "web developer, UI/UX designer, full-stack developer"]. It includes various projects and achievements demonstrating my skills and experience.
 
 ## **Description**
 This portfolio includes:
@@ -31,6 +30,4 @@ Feel free to explore and learn more about my work!
 - **Hosting**: Hosted on Netlify, GitHub Pages, or another platform.
 - **Images**: All images used in the project are either created by me or sourced under appropriate licenses.
 
-## **License**
-This project is licensed under the [license type, e.g., MIT License]. See the LICENSE file for more information.
 
